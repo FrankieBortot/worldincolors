@@ -1,0 +1,27 @@
+
+.skybw {
+ background-color: #9d9d9c;
+ height: 50vh;
+}
+
+.sandbw {
+ background-color: #000;
+ height: 50vh;
+}
+
+.sea{
+   margin-top: -65vh;
+  background-color: #577dbe;
+  height: 30vh;
+
+}
+
+.sun {
+  margin-top: -65vh;
+  height: 25vh;
+  width: 200px;
+  float: right;
+  background-color: red;
+  z-index: 2;
+
+}
